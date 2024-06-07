@@ -153,7 +153,7 @@ class WarGame {
     }
 }
 
-public class Main {
+public class StartWarGame {
     public static void main(String[] args) {
         WarGame game = new WarGame();
         game.play();
